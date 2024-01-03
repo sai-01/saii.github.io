@@ -14,7 +14,7 @@ baseurl: "/saii.github.io"
 username: Saiberpunk
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: I'm a software engineer.
+typing_text: an idealist
 # email: Your E-Mail address for the email button.
 email: email@example.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi. This is sai-01. This personalized website of "Saiberpunk", a combination of sai and cyberpunk.
+about_me_description: Hi. This is sai-01. This personalized website of "Saiberpunk", a combination of sai and cyberpunk. This page is still under construction and the information is not true.
 
 # SKILLS SECTION
 # show_skills_card:
